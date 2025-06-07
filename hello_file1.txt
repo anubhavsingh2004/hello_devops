@@ -1,0 +1,1 @@
+hello all today im learning git and now i am here learning to push files from local to remote . it was written in local and i am pushing it to github
